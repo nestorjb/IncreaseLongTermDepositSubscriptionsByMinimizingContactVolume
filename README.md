@@ -8,4 +8,4 @@ The business objective is to enhance the efficiency of directed campaigns for lo
 
 ## Findings
 
-A model has been defined that best infers the long-term deposit subscriptions with an accuracy of 91% and lift of 5.72. The factors that impact most positively are campaigns in the month of march, duration, consumer price index, and the feature that impacts most negatively is the employment variation rate. Taking into considerations these factors will improve long-term deposit subscriptions.
+A model has been defined that best infers the long-term deposit subscriptions with an accuracy of 91% and lift of 5.72. We use the lift score as this is the best score to use for Marketing campaigns. The factors that impact most positively are campaigns in the month of march, duration, consumer price index, and the feature that impacts most negatively is the employment variation rate. Taking into considerations these factors will improve long-term deposit subscriptions.
